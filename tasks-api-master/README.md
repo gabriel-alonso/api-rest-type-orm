@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Api Rest com Type ORM e TypeScript
 
 Steps to run this project:
 
